@@ -1,4 +1,4 @@
-# Balasubramanian PG
+# About Me
 
 <h3 align="left">Hey, I'm Balasubramanian PG 👋</h3>
 <h2 align="left">Google Verified Business Intelligence Consultant | Power BI & Power Apps Specialist | Data-Driven Process Optimization Expert</h2>
