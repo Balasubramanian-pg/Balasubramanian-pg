@@ -10,7 +10,7 @@
 
 ## ✏️ Professional Overview
 
-- 🔭 Current Project: [Video Translator AI](https://github.com/ChiragBellara/Video-Translation-Using-Deep-Learning)
+- 🔭 Current Project: 
 - 👨‍💻 Project Portfolio available on [GitHub](https://github.com/balasubramanianpg)
 - 📫 Contact: [balasubramanyan18@gmail.com](mailto:balasubramanyan18@gmail.com)
 
