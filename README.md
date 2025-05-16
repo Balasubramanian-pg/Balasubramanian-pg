@@ -49,9 +49,8 @@
     </td>
     <td align="center" width="110" height="90">
       <a href="#">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="70" height="70"/>
-      </a>
-      <br>JavaScript
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="70" height="70"/>      </a>
+      <br>Postgresql
     </td>
     <td align="center" width="110" height="90">
       <a href="#">
@@ -73,9 +72,8 @@
     </td>
     <td align="center" width="110" height="90">
       <a href="#">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="70" height="70"/>
-      </a>
-      <br>Java
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="70" height="70"/>      </a>
+      <br>Tableau
     </td>
   </tr>
 </table>
