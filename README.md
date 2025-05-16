@@ -254,19 +254,22 @@ Google Verified BI Consultant turning raw data into business gold through innova
     GitHub Analytics
   </h2>
 </div>
-<p align="center">
-  <a href="https://github.com/balasubramanianpg">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=balasubramanianpg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=balasubramanianpg&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balasubramanianpg&theme=algolia" alt="GitHub Streak" />
-</p>
-<!-- Activity Graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=balasubramanianpg&theme=react-dark&hide_border=true" />
-</a>
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=balasubramanianpg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balasubramanianpg&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+<br>
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=balasubramanianpg&theme=tokyonight&hide_border=true" />
+</div>
+<br>
+<div align="center">
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balasubramanianpg&theme=tokyonight" />
+</div>
+<!-- Alternative Activity Graph that works better -->
+<div align="center">
+  <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=balasubramanianpg&custom_title=Balasubramanian's%20Activity%20Graph&theme=react-dark&bg_color=1A1B27&hide_border=true" alt="Activity Graph" />
+</div>
 <!-- Connect section -->
 <div align="center">
   <h2>
