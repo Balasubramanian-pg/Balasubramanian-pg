@@ -6,12 +6,6 @@
   <!-- Using Outfit font in the typing animation -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=635&lines=Google+Verified+BI+Consultant;Process+Automation+Specialist;Transforming+Data+into+Business+Gold+✨;Let's+Connect+and+Create+Something+Amazing" alt="Typing SVG" /></a>
 </p>
-<!-- Adding Outfit font for the whole document -->
-<style>
-  * {
-    font-family: 'Outfit', 'Afacad', sans-serif;
-  }
-</style>
 <!-- Social Media Links with 3D Icons -->
 <div align="center">
   <a href="https://www.linkedin.com/in/balasubramanianpg2022/">
@@ -28,16 +22,16 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <!-- About Me Section with 3D GIF -->
 <div align="center">
-  <h2 style="font-family: 'Outfit', 'Afacad', sans-serif;">
+  <h2>
     <img src="https://media.giphy.com/media/3pTZ5pUYLUHh6/giphy.gif" width="50">
     <b>About Me</b>
     <img src="https://media.giphy.com/media/3pTZ5pUYLUHh6/giphy.gif" width="50">
   </h2>
 </div>
-🎯 <span style="font-family: 'Outfit', 'Afacad', sans-serif;">Analytical problem-solver with a passion for transforming complex business challenges into elegant data solutions</span>
+🎯 Analytical problem-solver with a passion for transforming complex business challenges into elegant data solutions
 <div>
   <a href="#"><img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47iqaqicbuhq27lubfbuhyp4oohwwy5m6j55osqrwm&ep=v1_gifs_search&rid=giphy.gif" width="38%"></a>
-  <ul style="font-family: 'Outfit', 'Afacad', sans-serif;">
+  <ul>
     <li>🔥 <b>2+ years</b> revolutionizing business processes with data-driven solutions</li>
     <li>📊 Created dashboards that increased decision-making speed by <b>65%</b> and accuracy by <b>40%</b></li>
     <li>⚡ Automated workflows saving <b>100+ work hours</b> monthly across teams</li>
@@ -50,7 +44,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <!-- Tech Stack Section -->
 <div align="center">
-  <h2 style="font-family: 'Outfit', 'Afacad', sans-serif;">
+  <h2>
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40">
     <b>Tech Arsenal</b>
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40">
@@ -98,7 +92,7 @@
   </tr>
 </table>
 <div align="center">
-  <h3 style="font-family: 'Outfit', 'Afacad', sans-serif;">🔥 Microsoft Power Platform & BI Expert 🔥</h3>
+  <h3>🔥 Microsoft Power Platform & BI Expert 🔥</h3>
 </div>
 <table align="center">
   <tr>
@@ -144,7 +138,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <!-- Professional Experience Section -->
 <div align="center">
-  <h2 style="font-family: 'Outfit', 'Afacad', sans-serif;">
+  <h2>
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
     <b>Current Projects</b>
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
@@ -158,8 +152,8 @@
         <div align="center">
           <a href="#"><img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-f29227069546.gif" width="200"></a>
         </div>
-        <h3 align="center" style="font-family: 'Outfit', 'Afacad', sans-serif;">Enterprise BI Transformation</h3>
-        <ul style="font-family: 'Outfit', 'Afacad', sans-serif;">
+        <h3 align="center">Enterprise BI Transformation</h3>
+        <ul>
           <li>🔄 Implementing real-time Power BI dashboards that reduced reporting cycles by 65%</li>
           <li>📈 Created automated data validation pipelines improving accuracy by 40%</li>
           <li>⚙️ Designing custom Power Apps solutions streamlining critical business processes</li>
@@ -170,8 +164,8 @@
         <div align="center">
           <a href="#"><img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="200"></a>
         </div>
-        <h3 align="center" style="font-family: 'Outfit', 'Afacad', sans-serif;">Sales Analytics Platform</h3>
-        <ul style="font-family: 'Outfit', 'Afacad', sans-serif;">
+        <h3 align="center">Sales Analytics Platform</h3>
+        <ul>
           <li>📊 Building comprehensive Power BI solution with ML-powered forecasting</li>
           <li>🔍 Implementing advanced DAX measures for complex performance metrics</li>
           <li>🔄 Automating ETL processes with Power Query and Dataflows</li>
@@ -186,14 +180,14 @@
 <!-- Connect Section -->
 <div align="center">
   <a href="#"><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8e0d17c535b.gif" width="300"></a>
-  <h2 style="font-family: 'Outfit', 'Afacad', sans-serif;">
+  <h2>
     <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80">
     <b>Let's Connect & Collaborate!</b>
     <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80">
   </h2>
 </div>
 <div align="center">
-  <p style="font-family: 'Outfit', 'Afacad', sans-serif;">I'm always interested in challenging projects and innovative collaborations. Let's create something amazing together!</p>
+  <p>I'm always interested in challenging projects and innovative collaborations. Let's create something amazing together!</p>
   <a href="https://www.linkedin.com/in/balasubramanianpg2022/">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="LinkedIn"/>
   </a>
@@ -213,5 +207,5 @@
 </div>
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24,30&height=120&section=footer&animation=fadeIn" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24,30&height=120&section=footer&animation=fadeIn&fontFamily=Outfit" width="100%">
 </div>
