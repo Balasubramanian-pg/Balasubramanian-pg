@@ -4,7 +4,7 @@
 </div>
 <p align="center">
   <!-- Using Outfit font in the typing animation -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=635&lines=Google+Verified+BI+Consultant;Process+Automation+Specialist;Transforming+Data+into+Business+Gold+✨;Let's+Connect+and+Create+Something+Amazing" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=635&lines=Google+Verified+BI+Consultant;Process+Automation+Specialist;Transforming+Data+into+Business+Gold+✨;Let's+Connect+and+Create+Something+Amazing" /></a>
 </p>
 <!-- Social Media Links with 3D Icons -->
 <div align="center">
