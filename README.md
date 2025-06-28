@@ -11,16 +11,14 @@
 <!-- About Me Section with 3D GIF -->
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/3pTZ5pUYLUHh6/giphy.gif" width="50">
     <b>About Me</b>
-    <img src="https://media.giphy.com/media/3pTZ5pUYLUHh6/giphy.gif" width="50">
   </h2>
 </div>
 🎯 Analytical problem-solver with a passion for transforming complex business challenges into elegant data solutions
 <div>
   <a href="#"><img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47iqaqicbuhq27lubfbuhyp4oohwwy5m6j55osqrwm&ep=v1_gifs_search&rid=giphy.gif" width="38%"></a>
   <ul>
-    <li>🔥 <b>2+ years</b> revolutionizing business processes with data-driven solutions</li>
+    <li>🔥 <b>3 years</b> reengineering business processes with data-driven solutions</li>
     <li>📊 Created dashboards that increased decision-making speed by <b>65%</b> and accuracy by <b>40%</b></li>
     <li>⚡ Automated workflows saving <b>100+ work hours</b> monthly across teams</li>
     <li>🧠 Diving deep into <b>Machine Learning</b>, <b>Data Science</b>, and building <b>AI-integrated Power Platform</b> solutions</li>
