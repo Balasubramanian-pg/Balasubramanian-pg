@@ -1,4 +1,4 @@
-### 🧠 About Me
+### About Me
 
 A data-first professional with a strong foundation in business process reengineering, dashboard design, and automation. I specialize in creating enterprise-grade reporting systems and building scalable solutions using the Microsoft Power Platform and modern BI tools.
 
@@ -9,7 +9,7 @@ A data-first professional with a strong foundation in business process reenginee
 
 ---
 
-### 🛠 Tech Arsenal
+### Tech Arsenal
 
 <p align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40"/>
@@ -28,7 +28,7 @@ A data-first professional with a strong foundation in business process reenginee
 
 ---
 
-### 📬 Connect With Me
+###  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/balasubramanianpg2022/" target="_blank">
