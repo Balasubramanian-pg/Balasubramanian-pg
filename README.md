@@ -7,8 +7,6 @@ A data-first professional with a strong foundation in business process reenginee
 - Automated processes saving 100+ monthly work hours  
 - Skilled in building predictive analytics and AI-integrated workflows  
 
----
-
 ### Tech Arsenal
 
 <p align="center">
@@ -25,8 +23,6 @@ A data-first professional with a strong foundation in business process reenginee
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Dataverse.svg" alt="Dataverse" width="40"/>
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Query-Colored.svg" alt="Power Query" width="40"/>
 </p>
-
----
 
 ###  Connect With Me
 
